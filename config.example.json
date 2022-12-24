@@ -1,0 +1,10 @@
+{
+    "refresh_token": "",
+    "download_path": "./download",
+    "metadata_path": "./metadata",
+    "interval": 1,
+    "download_size": "medium",
+    "start_date": "2022-12-24",
+    "end_date": "2022-12-24",
+    "search_target": "exact_match_for_tags"
+}
