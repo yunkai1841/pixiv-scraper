@@ -1,4 +1,6 @@
 # pixiv-scraper
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/yunkai1841/pixiv-scraper/blob/main/notebook/pixiv_scraper.ipynb)
+
 Download images from pixiv.net
 
 ## requirements
