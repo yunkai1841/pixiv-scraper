@@ -4,21 +4,22 @@
 
 Download images from pixiv.net
 
-## requirements
-- python>=3.6
+## Requirements
+- python3
 - pixivpy3=latest
 - cloudscraper=latest
 
 **Note**: be sure to use the **latest** cloudscraper.
 
-## usage
+## Usage
 1. install requirements
 2. get your pixiv refresh token
-3. rename `config.py.example` to `config.py` and fill in your `refresh_token`
-4. change parameters in `pixiv_scraper.py`
-5. run `python pixiv_scraper.py` (or you can use jupyter notebook)
+3. run `python pixiv_scraper.py` (or you can use jupyter notebook)
+4. enjoy!
 
-## refresh token
+**Note**: you can edit `config.json` to change search condition.
+
+## How to get refresh token
 > To get `refresh_token`, see [@ZipFile Pixiv OAuth Flow](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) or [OAuth with Selenium/ChromeDriver]( https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
 
 [Read pixivpy](https://github.com/upbit/pixivpy/blob/7b20c3bd158d10238d27135309525946d39bdbe4/README.md?plain=1#L6)
